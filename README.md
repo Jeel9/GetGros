@@ -1,6 +1,10 @@
-# kash
+# GetGros
 
-A new Flutter project.
+Food Delivery App
+Tech used-
+1) Flutter Framework
+2) Firebase as Database
+3) Google location APIs
 
 ## Getting Started
 
